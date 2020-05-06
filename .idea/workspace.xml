@@ -6,7 +6,41 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8566e647-2e90-457c-9558-b83a88c847a0" name="Default" comment="" />
+    <list default="true" id="8566e647-2e90-457c-9558-b83a88c847a0" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/net/com/parkingos/bean/Contant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/net/com/parkingos/bean/Contant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/com/parkingos/bean/Card.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/com/parkingos/bean/Contant.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/com/parkingos/bean/ResultData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/com/parkingos/bean/Role.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/com/parkingos/bean/Seat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/com/parkingos/bean/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/com/parkingos/controller/CardServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/com/parkingos/controller/LoginServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/com/parkingos/controller/SeatServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/com/parkingos/controller/UserServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/com/parkingos/dao/CardDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/com/parkingos/dao/CardDaoImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/com/parkingos/dao/SeatDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/com/parkingos/dao/SeatDaoImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/com/parkingos/dao/UserDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/com/parkingos/dao/UserDaoImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/com/parkingos/filter/FilterServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/com/parkingos/service/CardService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/com/parkingos/service/CardServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/com/parkingos/service/SeatService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/com/parkingos/service/SeatServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/com/parkingos/service/UserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/com/parkingos/service/UserServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/com/parkingos/test/Test01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/com/parkingos/test/Test02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/com/parkingos/test/Test03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/com/parkingos/utils/JdbcUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/com/parkingos/utils/PageUtils.class" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,6 +49,20 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -30,7 +78,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CardDao.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CardDao.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/java/net/com/parkingos/dao/CardDao.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="399">
@@ -38,6 +86,15 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Contant.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/java/net/com/parkingos/bean/Contant.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="494">
+              <caret line="26" column="19" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -109,6 +166,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -117,7 +177,6 @@
         <option value="$PROJECT_DIR$/src/java/net/com/parkingos/utils/JdbcUtils.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/a.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/a.jsp" />
-        <option value="$PROJECT_DIR$/src/java/net/com/parkingos/bean/Contant.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/java/net/com/parkingos/filter/FilterServlet.java" />
         <option value="$PROJECT_DIR$/src/java/net/com/parkingos/bean/ResultData.java" />
@@ -162,6 +221,7 @@
         <option value="$PROJECT_DIR$/src/java/net/com/parkingos/controller/CardServlet.java" />
         <option value="$PROJECT_DIR$/src/java/net/com/parkingos/dao/CardDao.java" />
         <option value="$PROJECT_DIR$/src/java/net/com/parkingos/dao/CardDaoImpl.java" />
+        <option value="$PROJECT_DIR$/src/java/net/com/parkingos/bean/Contant.java" />
       </list>
     </option>
   </component>
@@ -195,7 +255,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
@@ -206,126 +266,78 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="parking" type="b2602c69:ProjectViewProjectNode" />
-              <item name="parking" type="462c0819:PsiDirectoryNode" />
+              <item name="gitTemp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gitTemp" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="parking" type="b2602c69:ProjectViewProjectNode" />
-              <item name="parking" type="462c0819:PsiDirectoryNode" />
+              <item name="gitTemp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gitTemp" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="parking" type="b2602c69:ProjectViewProjectNode" />
-              <item name="parking" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="parking" type="b2602c69:ProjectViewProjectNode" />
-              <item name="parking" type="462c0819:PsiDirectoryNode" />
+              <item name="gitTemp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gitTemp" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="net" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="parking" type="b2602c69:ProjectViewProjectNode" />
-              <item name="parking" type="462c0819:PsiDirectoryNode" />
+              <item name="gitTemp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gitTemp" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="net" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="parking" type="b2602c69:ProjectViewProjectNode" />
-              <item name="parking" type="462c0819:PsiDirectoryNode" />
+              <item name="gitTemp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gitTemp" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="net" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="parkingos" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="parking" type="b2602c69:ProjectViewProjectNode" />
-              <item name="parking" type="462c0819:PsiDirectoryNode" />
+              <item name="gitTemp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gitTemp" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="net" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="parkingos" type="462c0819:PsiDirectoryNode" />
-              <item name="bean" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="parking" type="b2602c69:ProjectViewProjectNode" />
-              <item name="parking" type="462c0819:PsiDirectoryNode" />
+              <item name="gitTemp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gitTemp" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="net" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="parkingos" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="parking" type="b2602c69:ProjectViewProjectNode" />
-              <item name="parking" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="net" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="parkingos" type="462c0819:PsiDirectoryNode" />
-              <item name="dao" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="parking" type="b2602c69:ProjectViewProjectNode" />
-              <item name="parking" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="net" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="parkingos" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="parking" type="b2602c69:ProjectViewProjectNode" />
-              <item name="parking" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="net" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="parkingos" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="parking" type="b2602c69:ProjectViewProjectNode" />
-              <item name="parking" type="462c0819:PsiDirectoryNode" />
+              <item name="gitTemp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gitTemp" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="parking" type="b2602c69:ProjectViewProjectNode" />
-              <item name="parking" type="462c0819:PsiDirectoryNode" />
+              <item name="gitTemp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gitTemp" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="webapp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="parking" type="b2602c69:ProjectViewProjectNode" />
-              <item name="parking" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="Admin" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -649,6 +661,7 @@
       <workItem from="1588468657268" duration="597000" />
       <workItem from="1588572901942" duration="78000" />
       <workItem from="1588679637132" duration="599000" />
+      <workItem from="1588730744458" duration="516000" />
     </task>
     <servers />
   </component>
@@ -685,7 +698,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="149462000" />
+    <option name="totallyTimeSpent" value="149978000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -700,37 +713,47 @@
       <window_info anchor="bottom" id="JRebel Executor" order="9" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Database" order="5" weight="0.32995737" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39965987" />
-      <window_info anchor="right" id="JRebel Setup Guide" order="4" visible="true" weight="0.32995737" />
+      <window_info anchor="right" id="JRebel Setup Guide" order="4" weight="0.32995737" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32992035" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="bottom" id="Java Enterprise" order="7" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32897604" />
       <window_info anchor="right" id="leetcode" order="9" side_tool="true" weight="0.3291506" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49903476" weight="0.30718955" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17377399" />
-      <window_info id="Web" order="2" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17537314" />
       <window_info id="JRebel" order="2" side_tool="true" />
+      <window_info id="Web" order="2" side_tool="true" />
       <window_info anchor="right" id="Theme Preview" order="8" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32992035" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -741,13 +764,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/java/net/com/parkingos/bean/ResultData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="28" column="24" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://E:/2018IDEA/java - leetcode/src/leetcode/editor/cn/leetcode/editor/cn/[1]两数之和.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
@@ -1126,6 +1142,13 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/net/com/parkingos/bean/Contant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="26" column="19" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
         </state>
       </provider>
     </entry>

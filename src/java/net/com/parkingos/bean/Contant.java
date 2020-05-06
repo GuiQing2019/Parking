@@ -23,4 +23,7 @@ public class Contant {
     //登录验证码错误信息
     public static final String LOGIN_CODE_MSG="验证码错误";
 
+
+    //修改了xxxxxx1234
+
 }
